@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tuushars
-- 👀 I’m interested in Flutter
+- 👀 I’m interested in Flutter and Laravel
 - 🌱 I’m currently learning JavaScript and Dart
 - 📫 How to reach me Instagram ID:- @tuushars
 
